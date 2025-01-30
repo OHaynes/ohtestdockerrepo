@@ -1,4 +1,4 @@
-
+version: 0.2
   {
     "name": "hello-world",
     "imageUri": "891506653375.dkr.ecr.eu-west-1.amazonaws.com/actions/image-repo"
