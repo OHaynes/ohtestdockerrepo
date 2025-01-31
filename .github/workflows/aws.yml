@@ -31,7 +31,7 @@ on:
     branches: [ "main" ]
 
 env:
-  AWS_REGION: eu-west-1                   # set this to your preferred AWS region, e.g. us-west-1
+  AWS_REGION: eu-west-2                   # set this to your preferred AWS region, e.g. us-west-1
   ECR_REPOSITORY: oh/awsecrprivaterepo           # set this to your Amazon ECR repository name
   ECS_SERVICE: ohService                 # set this to your Amazon ECS service name
   ECS_CLUSTER: ohDevCluster                 # set this to your Amazon ECS cluster name
